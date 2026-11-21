@@ -1,0 +1,6 @@
+# The handoff file the runner writes after the build; never part of the entry.
+submit.json
+
+# Bytecode left by local python3 runs.
+__pycache__/
+*.pyc
